@@ -4,7 +4,7 @@
 16年初|开始对编程感兴趣，自学python。
 16年7月|正式毕业，进入房地产行业从事财务审计工作。
 16年10月|下定决心转行程序员 -- 前端工程诗
-    
+
 对我影响最大的两位博主[编程随想](https://program-think.blogspot.com)和[阮一峰](http://www.ruanyifeng.com/blog/)。
 <hr />
 1、为什么有一个不错的工作但还是选择转行？     
@@ -24,7 +24,7 @@
     
     编程、读书、打篮球
 
-这是我2016年的[书单](https://github.com/Supertraveler-Lee/person-profile/blob/master/book_list.md)，还有一些平时收藏的[名言](https://github.com/Supertraveler-Lee/person-profile/blob/master/motto.md)，我时常会翻看。
+这是我2016年的[书单](https://github.com/Supertraveler-Lee/person-profile/blob/master/book_list.md)，还有一些平时收藏的[名言](https://github.com/Supertraveler-Lee/person-profile/blob/master/motto.md)。
 
 ---
 如果贵公司有前端工程师的职位，并且对我有兴趣的，请联系我：changemelee#gmail.com  ：)
