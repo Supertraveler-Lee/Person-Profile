@@ -24,7 +24,7 @@
     
     编程、读书、打篮球
 
-这是我2016年的[书单](https://github.com/Supertraveler-Lee/person-profile/blob/master/book_list.md)，还有一些平时收藏的[名言](https://github.com/Supertraveler-Lee/person-profile/blob/master/motto.md)。
+这是我的[书单和简评](https://github.com/Supertraveler-Lee/person-profile/blob/master/book_list.md)，还有一些平时收藏的[名言](https://github.com/Supertraveler-Lee/Person-Profile/blob/master/docs/motto.md)。
 
 ---
 如果贵公司有前端工程师的职位，并且对我有兴趣的，请联系我：changemelee#gmail.com  ：)
